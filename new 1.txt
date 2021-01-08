@@ -1,0 +1,2 @@
+a) Time complexity is O(n^2).
+b) Time complexity is O(nlogn)
